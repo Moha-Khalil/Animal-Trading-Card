@@ -1,0 +1,16 @@
+
+#title { width: 268px; height: 20px; margin:10px; }
+
+img { border: solid 1px; width: 300px; height:200; margin:5px; }
+
+#interestingfact { font-style: italic; }
+
+li { list-style-type: none; font-weight: bold; text-align: left; }
+
+ul { margin: 0; padding: 0; }
+
+span { font-weight: normal; }
+
+.information { border: solid 1px gray; height: 350px; width: 280px; padding:10px; margin:5px;  } 
+
+.card { display: block; border: solid 1px gray; height: 620px; width: 315px; padding:10px; margin:5px; }
